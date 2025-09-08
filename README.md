@@ -22,26 +22,26 @@
 
 <p align="left">
 </a> 
-    <a href="https://github.com/Baymaxxx-car?tab=repositories">
-        <a href="https://github.com/Baymaxxx-car?tab=repositories">
+    <a href="https://github.com/carlos-santos-devcode?tab=repositories">
+        <a href="https://github.com/carlos-santos-devcode?tab=repositories">
         <img
             alt="Meus projetos" 
             title="Meus projetos no Github" 
             src="https://custom-icon-badges.demolab.com/badge/-Projetos-red?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a> 
-    <a href="https://github.com/Baymaxxx-car?tab=repositories&sort=stargazers">
+    <a href="https://github.com/carlos-santos-devcode?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Baymaxxx-car?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Baymaxxx-car?tab=followers">
+    <a href="https://github.com/carlos-santos-devcode?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Baymaxxx-car?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/carlos-santos-devcode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -78,14 +78,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Baymaxxx-car&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=carlos-santos-devcode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baymaxxx-car&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-santos-devcode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
